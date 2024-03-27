@@ -14,7 +14,7 @@ Insights:
 To present this information I used Power BI. The principal reason for doing this is that being able to handle data modeling of 9 tables is more efficient with Power BI. Besides, I think it can agreggate extra value to the project due to the versatility to make connections to different data sources, not to mention the cleaning data process.
 
 About the data:
-Tables used in this project have been provided by the DataCamp team Bicycle Sales database. This means all the rights of use correspond to them.
+Tables used for this project have been provided by the DataCamp team. This means all the rights of use correspond to them.
 Specific tables and columns are:
 - order_items: It is a table that capture orders from stores, asigning an order_id. It includes the following columns: discount,item_id,list_price,order_id, product_id and quantity.
 - orders: This table capture the orders from the stores then add an order status and an order date. It includes the following columns: customer_id,order_date,order_id,order_status,required_date,shipped_date,staff_id and store_id.
