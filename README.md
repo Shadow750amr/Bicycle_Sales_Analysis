@@ -1,5 +1,6 @@
 # Bicycle_Sales_Analysis
 This project analyze data from the Bicycle Sales db provided by the datacamp team.
+
 Objective:
 The main objective of this project is to analyze bicycle sales and answer the following questions:
 1. ¿What are the top 3 most sold products, categories and brands?
@@ -25,3 +26,7 @@ Specific tables and columns are:
 - categories: This table contains general information about categories, and include: category_id and category_name.
 - staffs: This table contains general information about staff members, and include: staff_id, first_name	last_name, email ,phone, active ,store_id and manager_id.
 - customers: This table contains general information about customers, and include: customer_id, first_name	last_name, phone, email, street, city, state and zip_code.
+
+Repo documents: 
+This repository includes the following documents:
+-
