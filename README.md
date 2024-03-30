@@ -1,7 +1,6 @@
 # Bicycle_Sales_Analysis
-This project analyze data from the Bicycle Sales db provided by the datacamp team.
 
-Objective:
+Description: This project analyze data from the Bicycle Sales db provided by the datacamp team.
 The main objective of this project is to analyze bicycle sales and answer the following questions:
 1. ¿What are the top 3 most sold products, categories and brands?
 2. ¿Does the sales of a certain product change from store to store?
@@ -13,7 +12,8 @@ The key tool used for this project is SQL. I combined subqueries, window functio
 
 Insights:
 To present this information I used Power BI. The principal reason of doing this is that being able to handle data modeling of 9 tables is more efficient with Power BI. Besides, I think it can agreggate extra value to the project due to the versatility to make connections to different data sources, not to mention the cleaning data process.
-
+Focusing froup:
+This analyze is oriented to sales force and stakeholders.
 About the data:
 Tables used for this project have been provided by the DataCamp team. This means all the rights of use correspond to them.
 Specific tables and columns are:
