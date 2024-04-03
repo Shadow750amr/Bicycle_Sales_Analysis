@@ -1,23 +1,25 @@
 # Bicycle_Sales_Analysis
 
 Description: This project analyze data from the Bicycle Sales db provided by the datacamp team.
+This data simulates a 3 year sales transactions from 3 stores: Baldwin Bikes, Rowlett Bikes and Santa Cruz Bikes.
 The main objective of this project is to analyze bicycle sales and answer the following questions:
 1. ¿What are the top 3 most sold products, categories and brands?
 2. ¿Does the sales of a certain product change from store to store?
 3. ¿Who are the most loyal clients?
 4. ¿Which staff member made the most sales?
 
-Tools:
+Tools and enviroment:
 The key tool used for this project is SQL. I combined subqueries, window functions and simple joins. 
+I used the datacamp enviroment to run the queries, so it may not work if you try to run it in a jupyter notebook or a DBMS.
 
 Insights:
 To present this information I used Power BI. The principal reason of doing this is that being able to handle data modeling of 9 tables is more efficient with Power BI. Besides, I think it can agreggate extra value to the project due to the versatility to make connections to different data sources, not to mention the cleaning data process.
 
 Focusing froup:
-This analyze is oriented to sales force and stakeholders.
+This analyze is oriented to provide KPI´s to the sales force team and stakeholders.
 
 About the data:
-Tables used for this project have been provided by the DataCamp team. This means all the rights of use correspond to them.
+Tables used for this project have been provided by the DataCamp team. This means that I don´t own the rights.
 Specific tables and columns are:
 - order_items: It is a table that capture orders from stores, asigning an order_id. It includes the following columns: discount,item_id,list_price,order_id, product_id and quantity.
 - orders: This table capture the orders from the stores then add an order status and an order date. It includes the following columns: customer_id,order_date,order_id,order_status,required_date,shipped_date,staff_id and store_id.
