@@ -31,9 +31,16 @@ Specific tables and columns are:
 - staffs: This table contains general information about staff members, and include: staff_id, first_name	last_name, email ,phone, active ,store_id and manager_id.
 - customers: This table contains general information about customers, and include: customer_id, first_name	last_name, phone, email, street, city, state and zip_code.
 
+
+
 Repo documents: 
 This repository includes the following documents:
 - Bicycle_Sales_Data (Folder): Contains the csv files used for the project.
 - The ipynb file used to share the SQL queries.
 - The pbix file where dashboard is accesible.
 - A pdf with dasboard images and aditional information about M code, DAX expressions and data modeling.
+
+
+Further analysis:
+
+Further analysis include 
