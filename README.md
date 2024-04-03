@@ -33,4 +33,7 @@ Specific tables and columns are:
 
 Repo documents: 
 This repository includes the following documents:
--
+- Bicycle_Sales_Data (Folder): Contains the csv files used for the project.
+- The ipynb file used to share the SQL queries.
+- The pbix file where dashboard is accesible.
+- A pdf with dasboard images and aditional information about M code, DAX expressions and data modeling.
