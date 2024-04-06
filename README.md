@@ -4,7 +4,7 @@ Description: This project analyze data from the Bicycle Sales db provided by the
 This data simulates a 3 year sales transactions from 3 stores: Baldwin Bikes, Rowlett Bikes and Santa Cruz Bikes.
 The main objective of this project is to analyze bicycle sales and answer the following questions:
 1. ¿What are the top 3 most sold products, categories and brands?
-2. ¿Does the sales of a certain product change from store to store?
+2. ¿Does the top sales of a certain product change from store to store?
 3. ¿Who are the most loyal clients?
 4. ¿Which staff member made the most sales?
 
