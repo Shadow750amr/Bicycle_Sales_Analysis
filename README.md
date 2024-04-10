@@ -41,6 +41,8 @@ This repository includes the following documents:
 - A pdf with dasboard images and aditional information about M code, DAX expressions and data modeling.
 
 
-Further analysis:
 
-Further analysis include 
+Further analysis:
+- This project does not include any profit analysis due to the lack of information (in this case, standard cost per product or other cost variable).
+- A deeper analyze in the sales of 2018 is needed due to the overall lower of sales and orders.
+
