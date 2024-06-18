@@ -46,3 +46,5 @@ Further analysis:
 - This project does not include any profit analysis due to the lack of information (in this case, standard cost per product or other cost variable).
 - A deeper analyze in the sales of 2018 is needed due to the overall lower of sales and orders.
 
+Tools used for this project:
+- SQL, Power BI.
